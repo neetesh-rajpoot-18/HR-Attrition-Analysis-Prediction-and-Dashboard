@@ -1,4 +1,4 @@
-<h1> align="center">📊 Employee Attrition Prediction & HR Analytics Dashboard 🚀</h1>
+<h1 align="center">📊 Employee Attrition Prediction & HR Analytics Dashboard 🚀</h1>
 
 ## 📌 Project Overview
 This project focuses on building an end-to-end predictive machine learning pipeline to proactively identify employee attrition risks. Using a historical HR dataset of *1,470 employees*, the primary objective is to classify whether an employee is likely to leave the organization (Yes / No) and isolate the critical drivers behind their departure. 
