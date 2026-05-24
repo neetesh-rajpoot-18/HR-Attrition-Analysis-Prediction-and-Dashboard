@@ -65,7 +65,7 @@ To ensure the model is reliable for business decision-making, it was rigorously 
 ## 📸 Screenshots
 
 
-![HR Attrition Analysis Dashboard](HR%20Attrition%20Dashboard%20SS.png)
+![HR Attrition Dashboard](https://raw.githubusercontent.com/neetesh-rajpoot-18/HR-Attrition-Analysis-Prediction-and-Dashboard/main/HR%20Attrition%20Dashboard%20SS.png)
 
 
 
