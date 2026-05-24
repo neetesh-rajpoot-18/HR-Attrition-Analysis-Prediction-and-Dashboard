@@ -209,7 +209,7 @@ jupyter notebook HR_Analytics_Att_Prid_ML.ipynb
 
 | Video | Link |
 |-------|------|
-| Dashboard Walkthrough | [Watch on YouTube](https://youtube.com/https://youtu.be/r9kkC6fb7m0) |
+| Dashboard Walkthrough | [Watch on YouTube](https://youtu.be/r9kkC6fb7m0) |
 
 ---
 ## License
