@@ -64,7 +64,8 @@ To ensure the model is reliable for business decision-making, it was rigorously 
 
 
 
-![HR Attrition Analysis Dashboard](assets/screenshot.png)
+![HR Attrition Analysis Dashboard](assets/<img width="1237" height="686" alt="HR Attrition Dashboard SS" src="https://github.com/user-attachments/assets/6210fc84-c297-46f7-a6fe-9e4df81b2b0d" />
+.png)
 
 
 Interactive dashboard for analyzing and predicting employee attrition
