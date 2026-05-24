@@ -1,74 +1,105 @@
-<h1 align="center">📊 Employee Attrition Prediction & HR Analytics Dashboard 🚀</h1>
-
-## 📌 Project Overview
-This project focuses on building an end-to-end predictive machine learning pipeline to proactively identify employee attrition risks. Using a historical HR dataset of *1,470 employees*, the primary objective is to classify whether an employee is likely to leave the organization (Yes / No) and isolate the critical drivers behind their departure. 
-
-While a multi-page interactive Power BI dashboard is utilized to visualize overall company health and KPIs, the core engine of this project lies in the *predictive classification model* that helps HR move from reactive tracking to proactive employee retention.
-
----
-
-## 🛠️ Tech Stack & Tools
-* *Machine Learning & Frameworks:* Python, Scikit-learn
-* *Data Engineering & EDA:* Pandas, NumPy, Seaborn
-* *Business Intelligence & Reporting:* Power BI, DAX, Microsoft Excel
-
----
-
-## ⚙️ Predictive Modeling & Analytics Pipeline
-
-### 1. Data Cleaning & Exploratory Data Analysis (EDA)
-* *Dataset Scale:* Analyzed 1,470 employee records tracking demographics, satisfaction scores, and job characteristics.
-* *Visual Exploration:* Utilized Seaborn to generate heatmaps, count plots, and distribution charts to uncover structural correlations between workplace friction and employee turnover.
-
-### 2. Feature Engineering & Preprocessing
-* *Encoding:* Handled categorical variables (such as Department, Education Field, and Job Role) to make them model-ready.
-* *Scaling:* Normalized numerical features to ensure stable gradient calculations and optimal distance metrics during training.
-
-### 3. Model Architecture: Random Forest Classifier
-* Implemented a *Random Forest Classifier* using Scikit-learn for its robust handling of mixed data types and resistance to overfitting.
-* Configured the ensemble tree structure to capture complex, non-linear interactions between demographic constraints and workplace satisfaction metrics.
-
-### 4. Evaluation & Performance Metrics
-To ensure the model is reliable for business decision-making, it was rigorously evaluated using:
-* *Accuracy Score:* To measure overall predictive correctness.
-* *Confusion Matrix:* To balance True Positives (correctly flagging employees intending to leave) against False Alarms.
-* *Feature Importance:* Extracted directly from the trained ensemble to rank exactly which factors impact an employee's decision to resign.
-
----
-
-## 📊 Dashboard Insights & Key Drivers
-
-### Key Predictive Metrics Tracked:
-* *Total Employees:* 1,470  
-* *Attrition Rate:* 16.1%  
-* *Attrition Count:* 237  
-* *Average Satisfaction Score:* 2.74 / 4  
-
-### Major Insights Discovered:
-* *Satisfaction Thresholds:* Low individual scores in Environment and Job Satisfaction act as immediate red flags for attrition.
-* *Role Vulnerability:* Specific operational roles—particularly Sales Executives and Research Scientists—exhibit structurally higher prediction risks.
-* *Reporting & Features:* Built dynamic DAX measures, custom department filter buttons (Human Resources, Research & Development, Sales), and drill-through functionality to map gender-split attrition ratios and job-specific satisfaction layers.
-
-## 📸 Screenshots
-
-
-![HR Attrition Dashboard](https://raw.githubusercontent.com/neetesh-rajpoot-18/HR-Attrition-Analysis-Prediction-and-Dashboard/main/HR%20Attrition%20Dashboard%20SS.png)
-
-
-
-Interactive dashboard for analyzing and predicting employee attrition
-
----
-
-## 📂 Repository Structure
-```text
-├── Data/
-│   └── HR_Employee_Attrition.csv       # Dataset containing 1,470 rows
-├── Notebooks/
-│   └── HR_Attrition_Prediction.ipynb   # Main ML pipeline (Preprocessing, Training, Evaluation)
-├── Dashboard/
-│   └── HR_Attrition_Dashboard.pbix     # Power BI file capturing model metrics and KPIs
-└── README.md
+🧑‍💼 HR Attrition Analysis, Prediction and Dashboard
+�
+Load image
+An end-to-end HR Analytics project combining SQL data exploration, Machine Learning prediction, and an interactive Power BI dashboard to analyze and predict employee attrition.
+📌 Project Overview
+Employee attrition is one of the biggest challenges organizations face. This project analyzes a dataset of 1,470 employees to uncover the key factors driving attrition, build a predictive ML model, and visualize insights through an interactive Power BI dashboard.
+📊 Key Metrics
+Metric
+Value
+Total Employees
+1,470
+Attrition Count
+237
+Attrition Rate
+16.1%
+Avg Satisfaction Score
+2.74
+📁 Repository Structure
+Code
+🗃️ Dataset Features
+The dataset contains 1,470 employee records with the following columns:
+Column
+Description
+Age
+Employee age
+Attrition
+Whether employee left (Yes/No)
+Department
+HR / R&D / Sales
+EducationField
+Field of education
+EmployeeNumber
+Unique employee ID
+EnvironmentSatisfaction
+Satisfaction with work environment (1–4)
+Gender
+Male / Female
+JobRole
+Employee's job role
+JobSatisfaction
+Job satisfaction score (1–4)
+MaritalStatus
+Married / Single / Divorced
+MonthlyIncome
+Monthly salary
+OverTime
+Whether employee works overtime
+PercentSalaryHike
+Salary hike percentage
+TotalWorkingYears
+Total years of experience
+WorkLifeBalance
+Work-life balance score (1–4)
+YearsAtCompany
+Years spent at the company
+🔧 Tools & Technologies
+Python — Data preprocessing, EDA, ML modeling (Jupyter Notebook)
+SQL — Data exploration and querying
+Power BI — Interactive dashboard and visualization
+Pandas, Scikit-learn — ML pipeline (Preprocessing, Training, Evaluation)
+🤖 Machine Learning Pipeline
+The notebook HR_Analytics_Att_Prid_ML.ipynb covers:
+Data Preprocessing — Handling missing values, encoding categorical variables, feature scaling
+Exploratory Data Analysis — Understanding attrition patterns by department, role, income
+Model Training — Classification models to predict attrition
+Evaluation — Accuracy, precision, recall, confusion matrix
+📈 Power BI Dashboard
+The dashboard (HR Attrition Dashboard.pbix) includes:
+KPI Cards — Total Employees, Attrition Rate, Avg Satisfaction Score, Attrition Count
+Workforce Gender Distribution — Donut chart (40% Female, 60% Male)
+Monthly Income Trend by Age — Income distribution across age groups
+Job Satisfaction by Role — Satisfaction scores across all job roles
+Environment Satisfaction by Role — Environment scores per job role
+Filters — Department slicer, Marital Status slicer
+🗺️ SQL Analysis
+The file HR_Analytis_Att_sql_work.sql contains queries for:
+Attrition rate by department
+Average income by job role
+Overtime impact on attrition
+Satisfaction score distributions
+📸 Screenshots
+�
+Load image
+Interactive Power BI dashboard for analyzing and predicting employee attrition
+🚀 How to Use
+Clone the repository
+Bash
+Run the ML notebook
+Open HR_Analytics_Att_Prid_ML.ipynb in Jupyter Notebook
+Install dependencies: pip install pandas scikit-learn matplotlib seaborn
+Run all cells
+Open the Dashboard
+Open HR Attrition Dashboard.pbix in Power BI Desktop
+Refresh data if needed
+Run SQL queries
+Open HR_Analytis_Att_sql_work.sql in your SQL editor
+Connect to your database and execute
+👤 Author
+Neetesh Rajpoot
+GitHub: @neetesh-rajpoot-18
+📄 License
+This project is open source and available under the MIT License.
 
 
 
