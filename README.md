@@ -60,3 +60,11 @@ To ensure the model is reliable for business decision-making, it was rigorously 
 ├── Dashboard/
 │   └── HR_Attrition_Dashboard.pbix     # Power BI file capturing model metrics and KPIs
 └── README.md
+## 📸 Screenshots
+
+
+
+![HR Attrition Analysis Dashboard](assets/screenshot.png)
+
+
+Interactive dashboard for analyzing and predicting employee attrition
