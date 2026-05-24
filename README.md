@@ -205,6 +205,13 @@ jupyter notebook HR_Analytics_Att_Prid_ML.ipynb
 
 ---
 
+## Demo Videos
+
+| Video | Link |
+|-------|------|
+| Dashboard Walkthrough | [Watch on YouTube](https://youtube.com/https://youtu.be/r9kkC6fb7m0) |
+
+---
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
