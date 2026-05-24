@@ -49,6 +49,15 @@ To ensure the model is reliable for business decision-making, it was rigorously 
 * *Role Vulnerability:* Specific operational roles—particularly Sales Executives and Research Scientists—exhibit structurally higher prediction risks.
 * *Reporting & Features:* Built dynamic DAX measures, custom department filter buttons (Human Resources, Research & Development, Sales), and drill-through functionality to map gender-split attrition ratios and job-specific satisfaction layers.
 
+## 📸 Screenshots
+
+
+![HR Attrition Dashboard](https://raw.githubusercontent.com/neetesh-rajpoot-18/HR-Attrition-Analysis-Prediction-and-Dashboard/main/HR%20Attrition%20Dashboard%20SS.png)
+
+
+
+Interactive dashboard for analyzing and predicting employee attrition
+
 ---
 
 ## 📂 Repository Structure
@@ -62,11 +71,4 @@ To ensure the model is reliable for business decision-making, it was rigorously 
 └── README.md
 
 
-## 📸 Screenshots
 
-
-![HR Attrition Dashboard](https://raw.githubusercontent.com/neetesh-rajpoot-18/HR-Attrition-Analysis-Prediction-and-Dashboard/main/HR%20Attrition%20Dashboard%20SS.png)
-
-
-
-Interactive dashboard for analyzing and predicting employee attrition
