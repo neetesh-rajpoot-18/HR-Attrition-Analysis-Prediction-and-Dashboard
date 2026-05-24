@@ -60,11 +60,12 @@ To ensure the model is reliable for business decision-making, it was rigorously 
 ├── Dashboard/
 │   └── HR_Attrition_Dashboard.pbix     # Power BI file capturing model metrics and KPIs
 └── README.md
+
+
 ## 📸 Screenshots
 
 
-
-<img width="1237" height="686" alt="HR Attrition Dashboard SS" src="https://github.com/user-attachments/assets/52090a82-f991-410d-8cd2-e1cf31e12750" />
+![HR Attrition Analysis Dashboard](HR%20Attrition%20Dashboard%20SS.png)
 
 
 
