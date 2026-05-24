@@ -156,7 +156,7 @@ The file `HR_Analytis_Att_sql_work.sql` includes queries for:
 
 | Video | Link |
 |-------|------|
-| Dashboard Walkthrough | [Watch here](https://drive.google.com/your-dashboard-link) |
+| Dashboard Walkthrough | [Watch here](https://www.youtube.com/watch?v=r9kkC6fb7m0) |
 | ML Model Demo | [Watch here](https://drive.google.com/your-ml-link) |
 | SQL Work Demo | [Watch here](https://drive.google.com/your-sql-link) |
 
@@ -203,13 +203,6 @@ jupyter notebook HR_Analytics_Att_Prid_ML.ipynb
 
 </div>
 
----
-
-## Demo Videos
-
-| Video | Link |
-|-------|------|
-| Dashboard Walkthrough | [Watch on YouTube](https://youtu.be/r9kkC6fb7m0) |
 
 ---
 ## License
