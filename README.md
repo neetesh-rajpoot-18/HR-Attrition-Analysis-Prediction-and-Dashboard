@@ -157,7 +157,7 @@ The file `HR_Analytis_Att_sql_work.sql` includes queries for:
 | Video | Link |
 |-------|------|
 | Dashboard Walkthrough | [Watch here](https://www.youtube.com/watch?v=r9kkC6fb7m0) |
-| ML Model Demo | [Watch here](https://drive.google.com/your-ml-link) |
+| ML Model Demo | [Watch here](https://youtu.be/Ec04XQyxSxI) |
 | SQL Work Demo | [Watch here](https://drive.google.com/your-sql-link) |
 
 ---
