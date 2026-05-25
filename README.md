@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/neetesh-rajpoot-18/HR-Attrition-Analysis-Prediction-and-Dashboard/main/HR%20Attrition%20Dashboard%20SS.png" alt="HR Attrition Dashboard" width="900"/>
 
 # HR Attrition Analysis, Prediction and Dashboard
 
