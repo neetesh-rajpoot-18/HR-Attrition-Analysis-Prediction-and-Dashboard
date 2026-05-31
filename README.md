@@ -195,7 +195,7 @@ jupyter notebook HR_Analytics_Att_Prid_ML.ipynb
 ---
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/neetesh-rajpoot-18/HR-Attrition-Analysis-Prediction-and-Dashboard/main/HR%20Attrition%20Dashboard_SS.png" alt="HR Attrition Dashboard" width="900"/>
+<img src="https://raw.githubusercontent.com/HR-Attrition-Analysis-Prediction-and-Dashboard/blob/main/HR%20Attrition%20SS.png" alt="HR Attrition Dashboard" width="900"/>
 
 
 *Interactive Power BI dashboard for analyzing and predicting employee attrition*
