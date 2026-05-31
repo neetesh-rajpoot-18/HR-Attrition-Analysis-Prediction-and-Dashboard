@@ -1,53 +1,93 @@
-Here’s a professional **README.md draft** tailored to your HR Attrition Analytics Dashboard. It highlights the purpose, features, and technologies in a recruiter‑friendly way:
-
-```markdown
 # 📊 HR Attrition Analytics Dashboard
 
-## 🔎 Project Overview
-This dashboard provides a comprehensive analysis of employee attrition, satisfaction, and workforce demographics. It helps HR teams identify trends, monitor key metrics, and make data‑driven decisions to improve retention and engagement.
 
-## ✨ Key Features
-- **Attrition Rate Tracking**: Current attrition rate at 16.1%, with trend analysis.
-- **Employee Demographics**: Gender distribution (60% Female, 40% Male).
-- **Satisfaction Metrics**:
-  - Average Satisfaction Score: 2.74
-  - Work‑Life Balance: 4K responses
-  - Environment Satisfaction by Job Role
-- **Income Analysis**: Monthly income distribution with performance vs. goal (+413.4%).
-- **Job Role Insights**:
-  - Job Satisfaction by role (Sales Executive highest at 898).
-  - Environment Satisfaction breakdown across departments.
-- **Dynamic Filters**: Marital Status and Department filters for customized views.
+
+![HR Attrition Analytics Dashboard](https://raw.githubusercontent.com/neetesh-rajpoot-18/HR-Attrition-Analysis-Prediction-and-Dashboard/main/HR%20Attrition%20SS.png)
+
+
+
+---
+
+## 🔍 Project Overview
+
+This project analyzes employee attrition patterns using HR data to uncover key insights
+about workforce trends, satisfaction levels, and departmental performance.
+Built with **Power BI**, the dashboard provides an interactive view of HR metrics
+to support data-driven decision-making.
+
+---
+
+## 📌 Key Metrics
+
+| Metric | Value |
+|---|---|
+| Attrition Rate | 16.1% |
+| Total Employees | 1.47K |
+| Avg Satisfaction Score | 2.74 |
+| Total Work-Life Balance | 4K |
+| Total Monthly Income | 51,340 |
+
+---
+
+## 📈 Dashboard Features
+
+- 🔘 **Interactive Slicers** — Filter by Marital Status & Department
+- 🍩 **Employee Gender Distribution** — Male vs Female breakdown
+- 📉 **Job Satisfaction by Job Role** — Line chart across all roles
+- 📊 **Environment Satisfaction by Job Role** — Bar chart comparison
+- 💰 **Total Monthly Income by Job Role** — Area chart with goal tracking
+- 🃏 **KPI Cards** — Quick summary of key HR metrics with icons
+
+---
 
 ## 🛠️ Tools & Technologies
-- **Power BI**: Interactive dashboard design and data visualization.
-- **Excel / CSV**: Data preparation and integration.
-- **SQL**: Querying and structuring HR datasets.
-- **Python (Pandas, NumPy)**: Data cleaning and preprocessing.
 
-## 📈 Insights
-- Female employees form the majority (882 out of 1,470).
-- Sales Executives show the highest job satisfaction and environment satisfaction.
-- Attrition rate of 16.1% highlights retention challenges.
-- Income distribution significantly exceeds set goals, indicating strong compensation metrics.
+- **Power BI Desktop** — Dashboard creation & visualization
+- **Microsoft Excel / CSV** — Data source
+- **DAX** — Calculated measures and KPIs
+- **Power Query** — Data cleaning and transformation
 
-## 🚀 How to Use
-1. Open the `.pbix` file in **Power BI Desktop**.
-2. Use filters (Marital Status, Department) to explore specific segments.
-3. Review KPI cards and charts for actionable insights.
-4. Export visuals for presentations or HR reports.
+---
 
-## 📂 Repository Structure
-- `HR_Attrition_Dashboard.pbix` → Power BI dashboard file
-- `dataset.csv` → Cleaned HR dataset
-- `README.md` → Project documentation
-- `screenshots/` → Dashboard preview images
+## 📂 Project Structure
 
-## 📬 Contact
-Created by **Neetesh Rajpoot**  
-GitHub: [neetesh-rajpoot-18](https://github.com/neetesh-rajpoot-18)  
 ```
 
-This README balances **technical detail** with **business impact**, making it attractive to recruiters and hiring managers.  
+HR-Attrition-Analysis-Prediction-and-Dashboard/
+│
+├── HR Attrition SS.png        # Dashboard screenshot
+├── HR_Attrition_Data.csv      # Dataset
+├── Dashboard.pbix             # Power BI file
+└── README.md                  # Project documentation
+```
 
-👉 Do you want me to also create a **shorter resume‑ready project description** (2–3 lines) that you can paste directly into your CV alongside this dashboard?
+---
+
+## 🚀 How to Use
+
+1. Clone this repository
+   ```bash
+   git clone https://github.com/neetesh-rajpoot-18/HR-Attrition-Analysis-Prediction-and-Dashboard.git
+   ```
+2. Open `Dashboard.pbix` in **Power BI Desktop**
+3. Explore the interactive dashboard using slicers and filters
+
+---
+
+## 👤 Author
+
+**Neetesh Rajpoot**  
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-neetesh--rajpoot--18-black?logo=github)
+
+](https://github.com/neetesh-rajpoot-18)
+
+---
+
+⭐ *If you found this project helpful, please give it a star!*
+```
+
+---
+
+Just update the file names (`Dashboard.pbix`, `HR_Attrition_Data.csv`) to match your actual filenames in the repo. Everything else is ready to paste directly into your `README.md`! 🚀
