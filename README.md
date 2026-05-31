@@ -193,14 +193,15 @@ jupyter notebook HR_Analytics_Att_Prid_ML.ipynb
 [![GitHub](https://img.shields.io/badge/GitHub-neetesh--rajpoot--18-black?style=flat&logo=github)](https://github.com/neetesh-rajpoot-18)
 
 ---
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/HR-Attrition-Analysis-Prediction-and-Dashboard/blob/main/HR%20Attrition%20SS.png" alt="HR Attrition Dashboard" width="900"/>
+## 📊 Dashboard Preview
 
 
-*Interactive Power BI dashboard for analyzing and predicting employee attrition*
 
-</div>
+![HR Attrition Analytics Dashboard](https://raw.githubusercontent.com/neetesh-rajpoot-18/HR-Attrition-Analysis-Prediction-and-Dashboard/main/HR%20Attrition%20SS.png)
+
+
+
+> *HR Attrition Analytics Dashboard built using Power BI*
 
 
 ---
