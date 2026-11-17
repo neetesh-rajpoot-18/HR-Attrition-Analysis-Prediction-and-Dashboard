@@ -2,7 +2,7 @@
 
 
 
-![HR Attrition Analytics Dashboard](https://raw.githubusercontent.com/neetesh-rajpoot-18/HR-Attrition-Analysis-Prediction-and-Dashboard/main/HR%20Attrition%20SS.png)
+![HR Attrition Analytics Dashboard](https://raw.githubusercontent.com/neetesh-rajpoot-18/HR-Attrition-Analysis-Prediction-and-Dashboard/main/Attrition.png)
 
 
 
